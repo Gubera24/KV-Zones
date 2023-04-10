@@ -77,6 +77,6 @@ Example:- /set_caption 📕 File Name: {filename}
 • 🦋 <a href=https://t.me/PHOENIX_6k>Owner</a>
 • 🦋 <a href=https://t.me/Thug_Phoenix>Co-owner</a>
 • 🦋 <a href=https://t.me/KV_ZONES>KV ZONES</a>
-• 🦋 <a href=https://t.me/GitHub_noob>𝗚𝗶𝘁𝗛𝘂𝗯 𝗡𝗢𝗢𝗕</a>
-• 🦋 <a href=https://t.me/about_jeol>𝗝𝗲𝗼𝗹 𝗣𝗮𝘂𝗹</a>
+• 🦋 <a href=https://t.me/Tamilanda35>Assistant</a>
+• 🦋 <a href=https://t.me/PHOENIX_6k>Producer</a>
 """
