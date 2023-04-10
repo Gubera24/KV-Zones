@@ -70,8 +70,8 @@ Example:- /set_caption 📕 File Name: {filename}
     DEV_TXT = """
 <b><u>Special Thanks & Developers</b></u> 
 
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT>𝐏𝐘𝐑𝐎 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
-» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://youtu.be/GfulqsSnTv4>MoTech Yt</a>
+» ❣️ SOURCE CODE : <a href=https://github.com/Gubera24/KV-Zones>KV ZONES</a>
+» ❤️‍🔥 CREATED BY  ❤️‍🔥 : <a href=https://t.me/PHOENIX_6k>PHOENIX</a>
 
 • 🦋 <a href=https://t.me/PHOENIX_6k>PHOENIX</a>
 • 🦋 <a href=https://t.me/PHOENIX_6k>Owner</a>
