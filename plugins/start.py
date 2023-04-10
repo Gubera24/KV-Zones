@@ -98,7 +98,7 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://github.com/Gubera24/KV-Zones")
                ],[
-               InlineKeyboardButton("❤️‍🔥 CREATED BY  ❤️‍🔥", url='https://t.me/Chjjde')
+               InlineKeyboardButton("❤️‍🔥 CREATED BY  ❤️‍🔥", url='https://t.me/PHOENIX_6k')
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -113,7 +113,7 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://github.com/Gubera24/KV-Zones")
                ],[
-               InlineKeyboardButton("❤️‍🔥 CREATED BY ❤️‍🔥", url="https://t.me/Chjjde")
+               InlineKeyboardButton("❤️‍🔥 CREATED BY ❤️‍🔥", url="https://t.me/PHOENIX_6k")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -127,7 +127,7 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://github.com/Gubera24/KV-Zones")
                ],[
-               InlineKeyboardButton("❤️‍🔥 CREATED BY ❤️‍🔥", url="https://t.me/Chjjde")
+               InlineKeyboardButton("❤️‍🔥 CREATED BY ❤️‍🔥", url="https://t.me/PHOENIX_6k")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
